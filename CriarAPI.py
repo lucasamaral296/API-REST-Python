@@ -27,4 +27,4 @@ def fat_produto(produto):  # função
     
   
 
-app.run(host="0.0.0.0")  # coloca o site no ar
+app.run()    #  no replit use o app.run(host="0.0.0.0")        # coloca o site no ar
